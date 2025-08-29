@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(0, 0, 0); 
+    font-family: 'Poetsen One', sans-serif;
+}
+
+header {
+    background-color: rgb(250, 100, 0); 
+    padding: 2rem; 
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.Datas {
+    margin: 10px;
+    position: fixed;   
+    top: 70px;  
+    right: 10px; 
+    bottom: 1px;                    
+    color: rgb(0, 0, 0);
+}
+.Inicial {
+    margin: 10px;
+    position: fixed;   
+    top: 70px;     
+    bottom: 1px;                    
+    color: rgb(0, 0, 0);
+}
+.Veiculo {
+    margin: 10px;
+    position: fixed;   
+    top: 70px;  
+    right: 140px; 
+    color: rgb(0, 0, 0);
+}
+
+
+
